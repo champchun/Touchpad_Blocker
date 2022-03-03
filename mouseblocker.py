@@ -7,8 +7,7 @@ import os
 
 def find_path():
     global path
-    path = f'C:\\Program Files (x86)\\ACME Touchpad Blocker'
-    print(f"{path}")
+    path = f'./'
 
 
 def load_device_id():
